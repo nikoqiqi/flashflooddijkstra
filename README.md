@@ -11,7 +11,7 @@ The main objective is to help emergency responders travel from the **Emergency O
 - Minimizing total travel distance
 - Providing alternative evacuation routes
 
-This project was developed for **Design and Analysis of Algorithm (CSC4202)**. :contentReference[oaicite:0]{index=0}
+This project was developed for **Design and Analysis of Algorithm (CSC4202)**.
 
 ---
 
@@ -19,7 +19,7 @@ This project was developed for **Design and Analysis of Algorithm (CSC4202)**. :
 
 During a flash flood in a highway network, several residential areas are affected and require immediate assistance. Emergency vehicles must deliver supplies and support evacuation activities.
 
-However, some roads become inaccessible due to flooding, causing possible delays and traffic bottlenecks. Therefore, an optimal route is required to ensure emergency vehicles can reach affected areas safely and efficiently. :contentReference[oaicite:1]{index=1}
+However, some roads become inaccessible due to flooding, causing possible delays and traffic bottlenecks. Therefore, an optimal route is required to ensure emergency vehicles can reach affected areas safely and efficiently.
 
 The system must:
 
@@ -41,7 +41,7 @@ The system must:
 - Implement Dijkstra’s Algorithm for shortest path calculation.
 - Find the shortest evacuation route.
 - Avoid unsafe flooded road sections.
-- Analyze algorithm performance and correctness. :contentReference[oaicite:2]{index=2}
+- Analyze algorithm performance and correctness.
 
 ---
 
@@ -58,7 +58,7 @@ The algorithm works by:
 3. Updating distances of neighboring nodes.
 4. Repeating until the shortest route is found.
 
-The selected algorithm guarantees the shortest path for graphs with non-negative weights. :contentReference[oaicite:3]{index=3}
+The selected algorithm guarantees the shortest path for graphs with non-negative weights.
 
 ---
 
@@ -80,7 +80,7 @@ The highway network is represented as a weighted directed graph:
 | J | Evacuation Center 1 |
 | K | Evacuation Center 2 |
 
-Each road connection contains a distance value representing travel cost. :contentReference[oaicite:4]{index=4}
+Each road connection contains a distance value representing travel cost.
 
 ---
 
